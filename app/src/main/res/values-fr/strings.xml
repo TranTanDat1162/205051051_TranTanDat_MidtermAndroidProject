@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thi Thuc Hanh</string>
+    <string name="main_activity_content">Liste de 10 plats</string>
+    <string name="button_back">Retour</string>
+    <string name="sub_activity_content">Liste des éléments sélectionnés</string>
+    <string name="clicked_message">Cliqué sur %1$s à la position %2$d</string>
+    <string-array name="food_name_string">
+        <item>Pain</item>
+        <item>Cheesecake aux cerises</item>
+        <item>Maison en pain d\'épices</item>
+        <item>Hamburger</item>
+        <item>Oeufs sur le plat</item>
+        <item>Oeufs sur le plat</item>
+        <item>Hamburger</item>
+        <item>Pain d\'épices</item>
+        <item>Cheesecake aux cerises</item>
+        <item>Pain</item>
+    </string-array>
+</resources>
